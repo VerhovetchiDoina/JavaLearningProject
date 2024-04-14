@@ -2,6 +2,7 @@ package md.tekwillacademy.commentsandvariables;
 
 public class CommentsAndVariables {
     public static void main(String[] args) {
+
         //Declare the primitive data type variables
     boolean homeWorkIsDone; // declaration of a variable of type boolean
         homeWorkIsDone = true; // assign a valueW
